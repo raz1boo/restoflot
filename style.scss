@@ -3,6 +3,7 @@ body {
   margin: auto;
   max-width: 1920px;
 }
+
 header {
   background-image: url(./assets//images/header-background.png);
   width: 100%;
@@ -411,7 +412,7 @@ main {
         align-items: flex-end;
         overflow: hidden;
         position: absolute;
-        transition: .3s;
+        transition: 0.3s;
         cursor: pointer;
       }
       .tile__description {
